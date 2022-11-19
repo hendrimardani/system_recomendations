@@ -1,2 +1,2 @@
-# sistem_rekomendasi
-Sistem Rekomendasi with ratings
+# sistem_recomendation
+Sistem recomendation with ratings
