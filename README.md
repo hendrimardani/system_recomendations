@@ -1,2 +1,2 @@
-# sistem_recomendation
-Sistem recomendation with ratings
+# system_recomendation
+System recomendation with ratings
