@@ -1,2 +1,2 @@
 # system_recomendation
-System recomendation with ratings
+System recomendation Content Based Filtering and Colaborative Filtering
