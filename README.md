@@ -1,2 +1,2 @@
-# system_recomendation
-System recomendation Content Based Filtering and Colaborative Filtering
+### Conclusion
+Make a decision to recommend products to customers either based on Content Based Filtering or Collaborative Filtering. The final results show that even though the model experiences overfitting the model is able to make recommendations to customers based on the genre and rating given. In this project there is also a report along with the stages starting from Business Understanding > Data Understanding > Data Preparation > Modeling > Evaluation to the conclusions obtained.
